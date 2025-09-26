@@ -17,3 +17,4 @@
 [2025-09-26 03:50:20] Good code is its own best documentation. - Steve McConnell
 [2025-09-26 06:51:44] The best way to predict the future is to implement it. - Alan Kay
 [2025-09-26 08:55:47] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-09-26 10:45:18] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
