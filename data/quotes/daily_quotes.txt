@@ -38,3 +38,4 @@
 [2025-09-30 03:51:01] Make it work, make it right, make it fast. - Kent Beck
 [2025-09-30 06:44:20] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-09-30 10:40:49] Good code is its own best documentation. - Steve McConnell
+[2025-09-30 12:58:39] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
