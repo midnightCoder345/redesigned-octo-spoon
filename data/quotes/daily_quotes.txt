@@ -108,3 +108,4 @@
 [2025-10-17 02:01:40] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2025-10-17 06:43:01] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2025-10-17 08:53:26] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-17 12:57:30] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
