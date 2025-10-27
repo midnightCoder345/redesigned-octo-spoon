@@ -154,3 +154,4 @@
 [2025-10-26 10:37:51] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-10-26 22:39:48] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2025-10-27 06:47:57] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-27 10:43:35] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
