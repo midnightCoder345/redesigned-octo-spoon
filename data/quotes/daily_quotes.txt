@@ -267,3 +267,4 @@
 [2025-11-20 22:39:22] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-21 02:11:08] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-11-21 02:25:15] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-21 08:54:59] Make it work, make it right, make it fast. - Kent Beck
