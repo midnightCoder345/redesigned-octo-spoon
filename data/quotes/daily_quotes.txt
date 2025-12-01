@@ -312,3 +312,4 @@
 [2025-11-30 18:40:34] First, solve the problem. Then, write the code. - John Johnson
 [2025-11-30 22:41:08] Make it work, make it right, make it fast. - Kent Beck
 [2025-12-01 02:37:34] Good code is its own best documentation. - Steve McConnell
+[2025-12-01 06:49:51] It's not a bug – it's an undocumented feature. - Anonymous
