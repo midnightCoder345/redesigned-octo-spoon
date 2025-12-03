@@ -324,3 +324,4 @@
 [2025-12-02 22:40:54] Code never lies, comments sometimes do. - Ron Jeffries
 [2025-12-03 02:18:16] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2025-12-03 06:48:20] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-03 08:58:38] The best error message is the one that never shows up. - Thomas Fuchs
