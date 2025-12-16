@@ -398,3 +398,4 @@
 [2025-12-15 20:52:12] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2025-12-16 02:23:23] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2025-12-16 02:47:49] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-16 22:42:51] Make it work, make it right, make it fast. - Kent Beck
