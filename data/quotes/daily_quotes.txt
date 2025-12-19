@@ -414,3 +414,4 @@
 [2025-12-19 10:44:05] Good code is its own best documentation. - Steve McConnell
 [2025-12-19 13:01:54] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2025-12-19 16:51:17] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-19 22:43:20] It's not a bug – it's an undocumented feature. - Anonymous
