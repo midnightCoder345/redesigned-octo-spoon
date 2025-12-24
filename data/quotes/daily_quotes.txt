@@ -435,3 +435,4 @@
 [2025-12-23 20:49:32] The best way to predict the future is to implement it. - Alan Kay
 [2025-12-23 22:42:30] Make it work, make it right, make it fast. - Kent Beck
 [2025-12-24 04:07:58] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-24 06:50:17] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
