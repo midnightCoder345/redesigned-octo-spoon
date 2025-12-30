@@ -467,3 +467,4 @@
 [2025-12-29 20:51:03] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2025-12-30 06:49:30] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2025-12-30 18:47:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-30 20:50:23] Make it work, make it right, make it fast. - Kent Beck
