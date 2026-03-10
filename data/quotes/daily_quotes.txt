@@ -792,3 +792,4 @@
 [2026-03-09 15:38:52] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-03-10 07:08:33] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2026-03-10 09:26:29] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-10 11:05:06] It's not a bug – it's an undocumented feature. - Anonymous
