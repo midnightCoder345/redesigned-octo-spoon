@@ -921,3 +921,4 @@
 [2026-04-05 19:03:08] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-04-05 22:59:17] Good code is its own best documentation. - Steve McConnell
 [2026-04-06 03:39:14] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-06 09:50:57] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
