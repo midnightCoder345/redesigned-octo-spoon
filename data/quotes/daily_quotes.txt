@@ -948,3 +948,4 @@
 [2026-04-11 09:24:37] Good code is its own best documentation. - Steve McConnell
 [2026-04-11 17:03:36] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-04-11 19:04:10] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-12 03:57:40] It's not a bug – it's an undocumented feature. - Anonymous
