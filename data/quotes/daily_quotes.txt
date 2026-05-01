@@ -1036,3 +1036,4 @@
 [2026-05-01 06:24:11] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 [2026-05-01 08:24:31] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2026-05-01 11:35:36] Good code is its own best documentation. - Steve McConnell
+[2026-05-01 21:33:16] Code is like humor. When you have to explain it, it's bad. - Cory House
