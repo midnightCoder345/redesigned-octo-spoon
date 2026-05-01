@@ -1037,3 +1037,4 @@
 [2026-05-01 08:24:31] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2026-05-01 11:35:36] Good code is its own best documentation. - Steve McConnell
 [2026-05-01 21:33:16] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-01 23:26:17] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
