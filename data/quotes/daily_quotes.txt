@@ -1085,3 +1085,4 @@
 [2026-05-12 14:47:59] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-05-12 21:52:52] Good code is its own best documentation. - Steve McConnell
 [2026-05-13 12:26:06] Make it work, make it right, make it fast. - Kent Beck
+[2026-05-13 17:00:40] Code is like humor. When you have to explain it, it's bad. - Cory House
