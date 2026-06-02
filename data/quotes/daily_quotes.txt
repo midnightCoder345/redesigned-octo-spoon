@@ -1184,3 +1184,4 @@
 [2026-06-02 05:21:10] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-06-02 08:10:16] The best way to predict the future is to implement it. - Alan Kay
 [2026-06-02 10:54:21] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-06-02 14:34:30] It's not a bug – it's an undocumented feature. - Anonymous
