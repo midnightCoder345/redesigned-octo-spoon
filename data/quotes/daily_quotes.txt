@@ -1187,3 +1187,4 @@
 [2026-06-02 14:34:30] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-06-02 19:55:47] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-06-02 21:23:01] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-06-03 00:09:34] Make it work, make it right, make it fast. - Kent Beck
