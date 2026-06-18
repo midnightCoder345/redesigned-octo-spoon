@@ -1264,3 +1264,4 @@
 [2026-06-17 12:39:44] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-06-17 14:05:34] The best way to predict the future is to implement it. - Alan Kay
 [2026-06-17 16:00:25] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-06-18 05:26:39] Code is like humor. When you have to explain it, it's bad. - Cory House
