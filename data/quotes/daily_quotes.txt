@@ -1340,3 +1340,4 @@
 [2026-07-04 11:48:51] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-07-04 13:55:19] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2026-07-04 21:35:42] The best way to predict the future is to implement it. - Alan Kay
+[2026-07-05 04:17:54] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
