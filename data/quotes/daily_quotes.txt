@@ -1444,3 +1444,4 @@
 [2026-07-25 17:31:31] First, solve the problem. Then, write the code. - John Johnson
 [2026-07-25 21:31:31] The best way to predict the future is to implement it. - Alan Kay
 [2026-07-25 23:29:08] Make it work, make it right, make it fast. - Kent Beck
+[2026-07-26 03:52:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
