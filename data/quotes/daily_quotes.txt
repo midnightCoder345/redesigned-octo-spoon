@@ -1542,3 +1542,4 @@
 [2026-08-14 11:12:04] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-08-14 15:29:21] Simplicity is the ultimate sophistication. - Leonardo da Vinci
 [2026-08-14 17:28:51] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-08-14 19:12:16] Code is like humor. When you have to explain it, it's bad. - Cory House
