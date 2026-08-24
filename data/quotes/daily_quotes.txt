@@ -1589,3 +1589,4 @@
 [2026-08-24 10:59:41] Good code is its own best documentation. - Steve McConnell
 [2026-08-24 13:10:03] Good code is its own best documentation. - Steve McConnell
 [2026-08-24 15:20:38] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-08-24 17:04:55] It's not a bug – it's an undocumented feature. - Anonymous
