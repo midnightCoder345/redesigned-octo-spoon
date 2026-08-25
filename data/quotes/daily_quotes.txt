@@ -1592,3 +1592,4 @@
 [2026-08-24 17:04:55] It's not a bug – it's an undocumented feature. - Anonymous
 [2026-08-24 21:02:44] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-08-24 22:53:16] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-08-25 01:49:53] Code is like humor. When you have to explain it, it's bad. - Cory House
