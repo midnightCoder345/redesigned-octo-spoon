@@ -1758,3 +1758,4 @@
 [2026-09-28 20:47:48] The only constant in the technology industry is change. - Marc Benioff
 [2026-09-28 23:14:56] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-09-29 06:23:02] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-09-29 18:03:11] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
