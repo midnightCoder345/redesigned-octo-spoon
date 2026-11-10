@@ -1960,3 +1960,4 @@
 [2026-11-09 16:21:17] The best way to predict the future is to implement it. - Alan Kay
 [2026-11-09 20:53:17] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-11-09 22:16:16] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-11-10 00:21:12] It's not a bug – it's an undocumented feature. - Anonymous
