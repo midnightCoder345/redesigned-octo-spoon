@@ -2006,3 +2006,4 @@
 [2026-11-17 23:36:24] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-11-18 15:40:27] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-11-18 23:00:35] The best way to predict the future is to implement it. - Alan Kay
+[2026-11-19 00:20:28] Code is like humor. When you have to explain it, it's bad. - Cory House
