@@ -2029,3 +2029,4 @@
 [2026-11-23 13:19:01] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-11-23 18:10:48] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-11-23 20:32:53] Good code is its own best documentation. - Steve McConnell
+[2026-11-23 22:06:35] It's not a bug – it's an undocumented feature. - Anonymous
