@@ -2027,3 +2027,4 @@
 [2026-11-22 17:56:12] The best way to predict the future is to implement it. - Alan Kay
 [2026-11-23 01:06:42] The best way to predict the future is to implement it. - Alan Kay
 [2026-11-23 13:19:01] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-11-23 18:10:48] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
