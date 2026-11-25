@@ -2037,3 +2037,4 @@
 [2026-11-24 22:20:34] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-11-25 02:24:10] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-11-25 03:43:12] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-11-25 17:14:49] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
